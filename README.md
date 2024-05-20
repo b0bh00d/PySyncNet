@@ -10,4 +10,4 @@ However, I'm envisioning something of a live system, stationed at a friend's or 
 I've been tinkering this together for some months now, and it's close to being ready for trial runs.  Once I've proven the system is reliable, I'll take the Python "blueprint" and convert it over to a native build (like C++ or Rust).
 
 ## WIP
-This is entirely a WIP and hobby project, and is absolutely not in a production state.  This is my little brain child, and it will be a while yet before its in any kind of useful state.
+This is entirely a WIP and hobby project, and is absolutely not in a production state.  This is my little brain child, and it will be a while yet before it's in any kind of useful state.
